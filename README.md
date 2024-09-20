@@ -5,5 +5,5 @@ Filerna går igenom hur man skapar egna datatyper med hjälp av klasser, structs
 
 Innehållet är på en grundläggande nivå och passar bra för de som vill få en enkel introduktion till objektorienterad programmering i C#.
 
-[DataTyoer grund](/data_types.md)
+[DataTyper grund](/data_types.md)<br>
 [Klasser_fort](/klasser_forts.md)
