@@ -155,7 +155,7 @@ Genom att använda dessa tekniker kan du skapa mer komplexa och meningsfulla dat
 
 ---
 
-# Hemuppgift: Skapa en produkttyp för en mataffär
+# Träningsuppgift: Skapa en produkttyp för en mataffär
 
 Mål:
 
